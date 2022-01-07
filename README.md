@@ -26,6 +26,6 @@ Skills: --> Dart
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Redwan-Islam&theme=onedark)](https://github.com/Redwan-Islam/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Redwan-Islam&theme=dark)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Redwan-Islam&theme=github-dark)](https://git.io/streak-stats) 
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/Redwan-Islam)  
