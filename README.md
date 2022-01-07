@@ -28,4 +28,4 @@ Skills: --> Dart
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Redwan-Islam&theme=github-dark)](https://git.io/streak-stats) 
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Redwan-Islam)  
+![](https://komarev.com/ghpvc/?username=Redwan-Islam&color=brightgreen)
