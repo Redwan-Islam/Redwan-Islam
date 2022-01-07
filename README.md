@@ -3,7 +3,7 @@
 ### Hi there 👋, I am Redwan Islam
 #### I am a Flutter Developer
 
-Hi, I am Redwan Islam. Recently I have completed my graduation from Stamford University Bangladesh. My Subject was Computer Science and Engineering and I want to pursue a career as a Software Developer in national or international organization that will provide the opportunity to develop my career in line with international
+Recently I have completed my graduation from Stamford University Bangladesh. My Subject was Computer Science and Engineering and I want to pursue a career as a Software Developer in national or international organization that will provide the opportunity to develop my career in line with international
 standard.
 
 Skills: Flutter/Python/HTML/CSS/Bootstrap
