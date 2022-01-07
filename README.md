@@ -24,7 +24,7 @@ Skills: --> Dart
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Redwan-Islam)](https://github.com/Redwan-Islam/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Redwan-Islam&theme=onedark)](https://github.com/Redwan-Islam/github-profile-trophy)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Redwan-Islam)  
 
