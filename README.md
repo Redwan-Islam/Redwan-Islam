@@ -3,9 +3,9 @@
 ### Hi there 👋, I am Redwan Islam
 #### I am a Flutter Developer
 
-Hi, I am Redwan Islam. Recently i have completed my graduation in (Bsc in CSE) at Stamford University Bangladesh. Email me - redwanislamdip@yahoo.com 
+Hi, I am Redwan Islam. Recently I have completed my graduation in (Bsc in CSE) at Stamford University Bangladesh. 
 
-Skills: Flutter/Python/ HTML / CSS/Bootstrap
+Skills: Flutter/Python/HTML/CSS/Bootstrap
 
 - 🔭 I’m currently working on Youtube 
 - 🌱 I’m currently learning Flutter 
@@ -14,7 +14,7 @@ Skills: Flutter/Python/ HTML / CSS/Bootstrap
 - 📫 How to reach me: redwanislamdip@yahoo.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Redwan-Islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/redwan-islam1999/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Redwanislamdip/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCeNfWfHFRpU4ZDKK1HMGVNA)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCeNfWfHFRpU4ZDKK1HMGVNA)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
