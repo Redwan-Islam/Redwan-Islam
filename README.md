@@ -6,7 +6,12 @@
 Recently I have completed my graduation from Stamford University Bangladesh. My Subject was Computer Science and Engineering and I want to pursue a career as a Software Developer in national or international organization that will provide the opportunity to develop my career in line with international
 standard.
 
-Skills: Flutter/Python/HTML/CSS/Bootstrap
+Skills: 01. Dart
+        02. Flutter
+        03. Python
+        04. HTML
+        05. CSS
+        06. Bootstrap
 
 - 🔭 I’m currently working on Youtube 
 - 🌱 I’m currently learning Flutter 
