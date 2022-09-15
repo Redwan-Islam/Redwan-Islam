@@ -2,10 +2,9 @@
 
 
 ### Hi there 👋, I am Redwan Islam
-#### I am a Flutter Developer
+#### I am a Front-End Developer
 
-Recently I have completed my graduation from Stamford University Bangladesh. My Subject was Computer Science and Engineering and I want to pursue a career as a Software Developer in national or international organization that will provide the opportunity to develop my career in line with international
-standard.
+Positive driven and confident individual with an apt for learning new technology. Self-taught programmer and exceptionally creative problem solver with solid background in Computer Science.
 
 Skills: --> Dart
         --> Flutter
@@ -13,6 +12,7 @@ Skills: --> Dart
         --> HTML
         --> CSS
         --> Bootstrap
+        --> Tailwind
 
 - 🔭 I’m currently working on Youtube 
 - 🌱 I’m currently learning Flutter 
