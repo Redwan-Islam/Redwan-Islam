@@ -20,9 +20,7 @@ Skills: --> Dart
 - 💬 Ask me about Flutter Development 
 - 📫 How to reach me: redwanislamdip@yahoo.com 
 
-[<img  src='https://user-images.githubusercontent.com/74811459/195890572-e6a87d7c-6efc-4a35-a8ae-02bb59a96335.png' alt='YouTube' height='40'>](https://youtu.be/taWRDZMGHdw)  
-
-[<img  src='https://user-images.githubusercontent.com/74811459/195890984-855c3084-cec3-4eaf-a1cd-9e86c6bda55e.png' alt='YouTube' height='40'>](https://youtu.be/taWRDZMGHdw)  
+[<img  src='https://user-images.githubusercontent.com/74811459/195890572-e6a87d7c-6efc-4a35-a8ae-02bb59a96335.png' alt='YouTube' height='40'>](https://youtu.be/taWRDZMGHdw](https://www.youtube.com/channel/UCeNfWfHFRpU4ZDKK1HMGVNA/videos) [<img  src='https://user-images.githubusercontent.com/74811459/195890984-855c3084-cec3-4eaf-a1cd-9e86c6bda55e.png' alt='YouTube' height='40'>](https://www.linkedin.com/in/redwan-islam1999/)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
